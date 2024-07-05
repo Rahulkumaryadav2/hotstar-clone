@@ -1,0 +1,2 @@
+# hotstar-clone
+simple hotstar
